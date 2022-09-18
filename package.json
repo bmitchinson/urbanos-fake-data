@@ -1,0 +1,19 @@
+{
+  "name": "urbanos-fake-data",
+  "version": "1.0.0",
+  "description": "Firebase Cloud Functions to generate fake data for the purpose of demoing \"UrbanOS\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmitchinson/urbanos-fake-data.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmitchinson/urbanos-fake-data/issues"
+  },
+  "homepage": "https://github.com/bmitchinson/urbanos-fake-data#readme"
+}
