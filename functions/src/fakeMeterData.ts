@@ -1,5 +1,6 @@
 import { coinFlip, getRandomArrayElement, getRandomInt } from "./randomUtils";
 
+// lats and longs must be equal length to support fakeCrashData
 export const columbusLats = [
   40.0005371, 39.9994706, 39.9847362, 40.0525337, 40.0522367, 39.9821248,
   40.0413523, 40.0171148, 40.0532837, 40.0599262, 40.0090225, 40.0155134,
